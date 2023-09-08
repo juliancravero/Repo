@@ -1,0 +1,16 @@
+
+
+.titulos{
+    color: violet;
+}
+
+li {
+    display: inline-block;
+}
+
+.contenedor{
+    border-top: 3px solid violet;  
+    margin: 50px;
+    padding: 30px;
+    background-color:thistle;
+}
